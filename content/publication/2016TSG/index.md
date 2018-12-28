@@ -15,7 +15,7 @@ authors = ["Jiajun Duan", "Kaifeng Zhang", "Liang Cheng"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Smart Grid."
@@ -26,7 +26,7 @@ abstract = "This paper presents a novel fault location method for single-phase m
 abstract_short = "This paper presents a novel fault location method for single-phase microgrids. "
 
 # Is this a selected publication? (true/false)
-selected = ture
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -19,14 +19,14 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Smart Grid"
-publication_short = "In *TSG*"
+publication_short = "In *IEEETSG*"
 
 # Abstract and optional shortened version.
 abstract = "The installation of phasor measurement units brings about system-wide synchronized real-time measurements, which makes advanced closed-loop control of wide-area power systems (WAPSs) possible. In addition to uncertainties with the physical system, network imperfections are also critical for control performance and even stability of the system. This paper targets at wide-area damping control of WAPS under both physical and cyber uncertainties. The cyber uncertainties addressed in this paper include both communication delay and package dropout. First, a linearized WAPS model is developed with considerations of random control signal arrivals. Then, a Q-learning-based control algorithm is designed to learn the optimal control under both physical and cyber uncertainties. Finally, to further counteract the communication uncertainties between the control center and actuators, a novel control law is designed based on the statistical analysis to make the long-term control performance approach that under ideal communications. The designed control algorithm is tested with both simplified linear model and detailed nonlinear model of WAPSs. Simulation results demonstrate the effectiveness of the designed algorithm."
 abstract_short = "This paper targets at wide-area damping control of WAPS under both physical and cyber uncertainties. "
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -3,12 +3,10 @@
 title = "Grid Mind"
 
 # Date this page was created.
-date = 2018-12827T00:00:00
+date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "“Grid Mind” is a novel autonomous control framework
-developing for secure operation of power grids
-based on cutting-edge artificial intelligence technologies."
+summary = "*Grid Mind* is a novel autonomous control framework developing for secure operation of power grids based on cutting-edge artificial intelligence technologies."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -45,18 +43,4 @@ tags = ["AI","Deep-Reinforcement Learning", "Autonomous Control"]
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-In this project, a novel autonomous control framework
-“Grid Mind” is developed for secure operation of power grids
-based on cutting-edge artificial intelligence technologies. The
-proposed platform provides a data-driven, model-free and closedloop
-control agent trained using deep reinforcement learning
-algorithms by interacting with massive simulations and/or
-real environment of a power grid. The proposed agent learns
-from scratch to master the power grid control problem
-purely from data. It can make autonomous control 
-strategies to support grid operators in making effective and
-timely control actions, according to the current system conditions
-detected by real-time measurements from SCADA or phaser measurement
-units. Various state-of-the-art DRL algorithms,
-e.g., deep Q-network (DQN) and deep deterministic policy
-gradient (DDPG) etc., are utilized and analyzed.
+In this project, a novel autonomous control framework *Grid Mind* is developed for secure operation of power grids based on cutting-edge artificial intelligence technologies. The proposed platform provides a data-driven, model-free and closedloop control agent trained using deep reinforcement learning algorithms by interacting with massive simulations and/or real environment of a power grid. The proposed agent learns from scratch to master the power grid control problem purely from data. It can make autonomous control strategies to support grid operators in making effective and timely control actions, according to the current system conditions detected by real-time measurements from SCADA or phaser measurement units. Various state-of-the-art DRL algorithms, e.g., deep Q-network (DQN) and deep deterministic policy gradient (DDPG) etc., are utilized and analyzed.

@@ -50,7 +50,7 @@ tags = ["Data Analysis","Microgrid"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/7294716"
-url_preprint = "https://caryduan.netlify.com/publication/2012PESGM/07294716.pdf"
+url_preprint = "https://caryduan.netlify.com/publication/2016TSG/07294716.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

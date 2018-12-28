@@ -50,7 +50,7 @@ tags = ["Control Theory","Microgrid","Power Electronics"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/8263162"
-url_preprint = "https://jiajunduan.netlify.com/publication/2018TII/08263162.pdf"
+url_preprint = "https://caryduan.netlify.com/publication/2018TII/08263162.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

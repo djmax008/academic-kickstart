@@ -1,5 +1,5 @@
 +++
-title = "Multi-scale stochastic optimization for home energy management"
+title = "A Novel Method of Fault Location for Single-Phase Microgrids"
 date = 2011-12-01T00:00:00
 draft = false
 
@@ -50,7 +50,7 @@ tags = ["Data Analysis","Microgrid"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/7294716"
-url_preprint = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7294716"
+url_preprint = ""https://caryduan.netlify.com/publication/2012PESGM/07294716.pdf""
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

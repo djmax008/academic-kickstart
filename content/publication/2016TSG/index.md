@@ -1,10 +1,10 @@
 +++
-title = "A Novel Method of Fault Location for Single-Phase Microgrids"
-date = 2011-12-01T00:00:00
+title = "Q-Learning-Based Damping Control of Wide-Area Power Systems Under Cyber Uncertainties"
+date = 2012-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiajun Duan", "Kaifeng Zhang", "Liang Cheng"]
+authors = ["Jiajun Duan", "Hao Xu", "Wenxin Liu"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Jiajun Duan", "Kaifeng Zhang", "Liang Cheng"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Smart Grid."
+publication = "IEEE Transactions on Smart Grid"
 publication_short = "In *TSG*"
 
 # Abstract and optional shortened version.
-abstract = "This paper presents a novel fault location method for single-phase microgrids. In order to locate a fault, a feature specific to the fault location is found, namely the maximum oscillation magnitude of the transient voltage signal induced by the fault. Our theoretical study and extensive simulations demonstrate that there is an approximated linear relationship between the maximum magnitude of the transient signal observed by a sensor, and the distance between the sensor and the fault location. Based on the discovered relationship, microgrid topology and sensor location information, we have designed an algorithm capable of locating the fault in the single-phase microgrids. The proposed fault location method has been implemented and validated through simulations in Electro-Magnetic Transients Program and MATLAB. The average localization error is less than 10% in the evaluation results, which manifests the significance of the novel method, as there is little research done for fault location in single-phase microgrids."
-abstract_short = "This paper presents a novel fault location method for single-phase microgrids. "
+abstract = "The installation of phasor measurement units brings about system-wide synchronized real-time measurements, which makes advanced closed-loop control of wide-area power systems (WAPSs) possible. In addition to uncertainties with the physical system, network imperfections are also critical for control performance and even stability of the system. This paper targets at wide-area damping control of WAPS under both physical and cyber uncertainties. The cyber uncertainties addressed in this paper include both communication delay and package dropout. First, a linearized WAPS model is developed with considerations of random control signal arrivals. Then, a Q-learning-based control algorithm is designed to learn the optimal control under both physical and cyber uncertainties. Finally, to further counteract the communication uncertainties between the control center and actuators, a novel control law is designed based on the statistical analysis to make the long-term control performance approach that under ideal communications. The designed control algorithm is tested with both simplified linear model and detailed nonlinear model of WAPSs. Simulation results demonstrate the effectiveness of the designed algorithm."
+abstract_short = "This paper targets at wide-area damping control of WAPS under both physical and cyber uncertainties. "
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = ture
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Fault Location of Microgrids"]
+projects = ["Wide-Area Power Systems Management"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -42,15 +42,15 @@ projects = ["Fault Location of Microgrids"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides = ""
+#slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Data Analysis","Microgrid"]
+tags = ["Q Learning","Wide-Area Power System","Cyber-Physical Uncertain"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/7294716"
-url_preprint = ""https://caryduan.netlify.com/publication/2012PESGM/07294716.pdf""
+url_pdf = "https://ieeexplore.ieee.org/document/7938692"
+url_preprint = "https://jiajunduan.netlify.com/publication/2012PESGM/07938692.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
@@ -64,7 +64,7 @@ url_preprint = ""https://caryduan.netlify.com/publication/2012PESGM/07294716.pdf
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/TSG.2015.2480065"
+doi = "10.1109/TSG.2017.2711599"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

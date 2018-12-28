@@ -50,7 +50,7 @@ tags = ["Q Learning","Wide-Area Power System","Cyber-Physical Uncertain"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/7938692"
-url_preprint = "https://caryduan.netlify.com/publication/2012PESGM/07938692.pdf"
+url_preprint = "https://caryduan.netlify.com/publication/2018TSG/07938692.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

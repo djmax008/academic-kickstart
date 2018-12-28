@@ -26,7 +26,7 @@ abstract = "The installation of phasor measurement units brings about system-wid
 abstract_short = "This paper targets at wide-area damping control of WAPS under both physical and cyber uncertainties. "
 
 # Is this a selected publication? (true/false)
-selected = ture
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -34,7 +34,7 @@ weight = 7
   description = "99%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "server"
   icon_pack = "fas"
   name = "OPRT/DSpace"
   description = "70%"

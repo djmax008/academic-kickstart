@@ -1,10 +1,10 @@
 +++
-title = "Large scale charging of electric vehicles: A multi-armed bandit approach"
+title = "Event-triggered and self-triggered wide-area damping control designs under uncertainties"
 date = 2015-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhe Yu", "Yunjian Xu", "Lang Tong"]
+authors = ["Jiajun Duan", "Hao Xu", "Wenxin Liu"]
 
 # Publication type.
 # Legend:
@@ -15,15 +15,15 @@ authors = ["Zhe Yu", "Yunjian Xu", "Lang Tong"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceediongs of *Communication, Control, and Computing (Allerton), 2015 53rd Annual Allerton Conference on*, IEEE."
-publication_short = "In *Allerton*"
+publication = "Transactions of the Institute of Measurement and Control "
+publication_short = "In *TIMC*"
 
 # Abstract and optional shortened version.
-abstract = "A sequential game model is proposed to analyze a two-sided market and indirect network effects involving electrical vehicles (EV) and electric vehicle charging stations (EVCS). The investor maximizes his profit by choosing a set of locations to build charging stations or deferring his investment and earning interest at a fixed rate. The investor also decides the optimal pricing of charging. The consumer, on the other hand, decides whether to purchase an EV or a gasoline vehicle (GV) based on the price of EV, the cost of charging, and the availability of charging stations. The solution of the game provides a closed-form expression of the EV market share as a function of EV price, the price of charging, and the density of charging stations. An asymptotically optimal algorithm is proposed for solving the optimization of the investor's decision."
-abstract_short = "A sequential game model is proposed to analyze a two-sided market and indirect network effects involving electrical vehicles (EV) and electric vehicle charging stations (EVCS)."
+abstract = "Traditional damping controllers of wide-area power systems (WAPSs) are not able to solve the inter-area oscillation problem effectively owing to lack of global vision. It weakens the power transfer capability and even the stability of WAPSs. The installation of a large number of phase measurement units brings about the system-wide synchronized measurements. Considering that conventional periodic control solutions have placed an excessive burden on the cyber infrastructure, in this paper, two advanced aperiodic control schemes are designed based on the real-time global synchronized measurements. Two control schemes, that is, zero-order-hold event-triggered control and self-triggered control, are developed for wide-area damping control with the minimum communication between the control center and the actuators. The control center only updates control signals for the actuators when certain conditions are triggered, and there is no communication occurrence for the rest of time. Thus, they have mild requirements on communication and computation. The algorithms are tested through simulations of WAPS models with different levels of details. The simulation results demonstrate the effectiveness and benefits of the control design."
+abstract_short = "Considering that conventional periodic control solutions have placed an excessive burden on the cyber infrastructure, in this paper, two advanced aperiodic control schemes are designed based on the real-time global synchronized measurements."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -34,7 +34,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["EV-charging","deadline-scheduling"]
+projects = ["Wide-Area Power Systems Management"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -46,10 +46,10 @@ projects = ["EV-charging","deadline-scheduling"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Restless Bandits","Electric Vehicles","EV charging"]
+tags = ["Wide-Area Power System","PMU","Power System Stabilizer"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/7028571"
+url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/0142331217700241"
 url_preprint = "https://arxiv.org/pdf/1605.07578.pdf"
 #url_code = ""
 #url_dataset = ""

@@ -50,7 +50,7 @@ tags = ["Wide-Area Power System","PMU","Power System Stabilizer"]
 
 # Links (optional).
 url_pdf = "https://journals.sagepub.com/doi/abs/10.1177/0142331217700241"
-url_preprint = "https://arxiv.org/pdf/1605.07578.pdf"
+url_preprint = "https://jiajunduan.netlify.com/publication/2018TIMC/0142331217700241.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

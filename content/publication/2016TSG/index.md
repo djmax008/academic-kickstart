@@ -1,5 +1,5 @@
 +++
-title = "Multi-scale stochastic optimization for home energy management"
+title = "A novel method of fault location for single-phase microgrids"
 date = 2011-12-01T00:00:00
 draft = false
 
@@ -15,7 +15,7 @@ authors = ["Jiajun Duan", "Kaifeng Zhang", "Liang Cheng"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Smart Grid."
@@ -26,7 +26,7 @@ abstract = "This paper presents a novel fault location method for single-phase m
 abstract_short = "This paper presents a novel fault location method for single-phase microgrids. "
 
 # Is this a selected publication? (true/false)
-selected = ture
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,7 +50,7 @@ tags = ["Data Analysis","Microgrid"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/7294716"
-url_preprint = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7294716"
+url_preprint = "https://caryduan.netlify.com/publication/2012PESGM/07294716.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

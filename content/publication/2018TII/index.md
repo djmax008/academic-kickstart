@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Industrial Informatics"
-publication_short = "In *TII*"
+publication_short = "In *IEEETII*"
 
 # Abstract and optional shortened version.
 abstract = "Distributed generators (DGs) in a microgrid are tightly coupled through power lines, whose dynamics should not be ignored. If not properly handled, large transient line currents may trigger false protection even under normal operating conditions. Droop-based control adjustments also unnecessarily increase frequency and voltage oscillations. Targeting at these problems, this paper presents a distributed control solution for inverter-interfaced microgrids. The objective of primary control is to realize the desired regulations of bus voltages and frequency as well as suppression of transient line currents. The objective of secondary control is to maintain fair load sharing. At secondary control level, a consensus algorithm is introduced to calculate the references for phase angles of bus voltages based on fair load sharing and dc power flow. At primary control level, a feedback linearization based control algorithm with dynamic control bounds is designed for voltage regulation and transient line current suppression. In addition to a common reference frame, the subsystem controllers only require measurements of local and neighboring subsystems. The effectiveness of the proposed control solution is demonstrated through simulations based on both simplified and detailed models."
@@ -64,7 +64,7 @@ url_preprint = "https://caryduan.netlify.com/publication/2018TII/08263162.pdf"
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/TSG.2017.2711599"
+doi = "10.1109/TII.2018.2791988"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
